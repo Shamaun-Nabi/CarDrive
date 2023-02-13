@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #1f1b2d;
+}
+.globalBg {
+  background-color: #1f1b2d;
+}
+
+.navMain {
+  background-color: #1f1b2d;
+}
+
+.nav-link:hover {
+  color: rgb(248, 16, 47);
+}
+
+.actionBtn {
+  background-color: #fd5631;
+  color: white;
+}
+
+.nav-link {
+  color: rgb(216, 212, 212);
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  color: #e9280e;
+}
+.actionBtn:hover {
+  background-color: #fa3408;
+  color: white;
+}
+.signIngBtn {
+  color: bisque;
+}
+.signIngBtn:hover {
+  color: #fa3408;
+}
+.fa-bars {
+  color: aliceblue;
+}
+
+.dropdown-menu:hover {
+  color: white;
+}
+.viewHero {
+  background-color: #1f1b2d;
+  width: 100%;
+  height: 100vh;
+}
+
+.heroView {
+  height: 100%;
+}
+
+.heroBg {
+  background-image: url("../assets/hero-bg.png");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.displayImage {
+  width: 650px;
+}
+
+.HeroTitle {
+  font-weight: 600;
+}
+
+.heroDesc {
+  color: #78787a;
+}
+
+.carCard {
+  background-color: #1f1b2d;
+}
+
+.carCard:hover {
+  background-color: hsla(0, 0%, 100%, 0.04);
+  cursor: pointer;
+}
+
+.card {
+  background-color: #1f1b2d;
+  border-radius: 10px;
+  border: 1px solid #78787a;
+  padding: 10px;
+  cursor: pointer;
+}
+.carDesc {
+  color: #78787a;
+}
+
+.carText {
+  color: #949494;
+}
+
+.carBtn {
+  background-color: #e9280e;
+}
+
+.carBtn:hover {
+  background-color: #fd5631;
+}
+
+.carSale {
+  background-color: #282435;
+  width: 100%;
+}
+
+.carSaleHead {
+  font-size: 32px;
+  font-weight: 700;
+}
+.carsHeadPara {
+  color: #8e8e91;
+}
+
+.buyersCard {
+  width: 100%;
+}
+
+.buyerImg {
+  background-color: #1f1b2d;
+  width: 100px;
+  padding: 10px;
+}
+
+.btnBg {
+  background-color: #3e394f;
+
+}
+
+.copyright a{
+  color: #3e394f;
+  text-decoration: none;
+  color: #78787a;
+}
+
+.copyright a:hover{
+  color: aqua;
+}
+
+.footTitle{
+  color: #f03118;
+}
+
